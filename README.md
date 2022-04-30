@@ -13,6 +13,8 @@ $ pip install http://download.pytorch.org/whl/cpu/torch-1.0.0-cp36-cp36m-linux_x
 $ pip install fastai --upgrade
 ```
 
+### Example of the Dataset
+![image](dataset_example.png)
 
 ### Result
 ![image](result.png)
